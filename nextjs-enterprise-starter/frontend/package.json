@@ -12,7 +12,7 @@
     "react-dom": "18.2.0",
     "@reduxjs/toolkit": "^1.9.5",
     "react-redux": "^8.1.1",
-    "tailwindcss": "^3.5.4",
+    "tailwindcss": "^3.4.13",
     "postcss": "^8.4.24",
     "autoprefixer": "^10.4.14",
     "react-chartjs-2": "^5.2.0",
